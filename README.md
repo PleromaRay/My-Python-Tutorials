@@ -5,3 +5,5 @@ This repository contains scripts used in teaching my 'Introduction to Python' cl
 The following topics are covered:
 
 - Strings
+
+- Numbers (Floats, Integers and Complex Numbers)
