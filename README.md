@@ -12,6 +12,7 @@ The following topics are covered:
 # Committing New Changes
 
 ```bash
+
 git add .
 
 git commit -m "add message for commit"
