@@ -20,3 +20,12 @@ git commit -m "add message for commit"
 git push
 
 ```
+# commiting new changes
+
+```bash
+
+git add .
+
+git commit "strings.ipynb"
+
+git push
