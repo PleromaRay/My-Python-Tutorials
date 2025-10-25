@@ -1,9 +1,0 @@
-#Variables
-    #assigns a value that can be used throughout your code
-    #variables can be long or short
-    #they may contain Upper case, lowercase, digits, underscore
-    #they cannot start with a digit
-
-greeting = "Hello, World"
-print(greeting)
-
